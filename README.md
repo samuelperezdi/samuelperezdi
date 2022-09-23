@@ -1,9 +1,10 @@
 <h1 align="center"><a>
 Víctor Samuel Pérez Díaz</a></h1>
+<h5 align="center">Applied Mathematics and Computer Science</h5>
+<p align="center">
+  <img top="500" height="200" width="200" alt="First day at the CfA." src="https://pbs.twimg.com/profile_images/1535846887814844416/DAzyxjl5_400x400.jpg">
+</p>
 
- <img align="center" top="500" height="200" width="1" alt="First day at the CfA." src="https://pbs.twimg.com/profile_images/1535846887814844416/DAzyxjl5_400x400.jpg">
-</a>
-<h3 align="center">Applied Mathematics and Computer Science</h3>
 
 
 ## About me
