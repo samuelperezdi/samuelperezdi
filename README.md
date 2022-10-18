@@ -2,7 +2,7 @@
 Víctor Samuel Pérez Díaz</a></h1>
 <h5 align="center">Applied Mathematics and Computer Science</h5>
 <p align="center">
-  <img top="500" height="200" width="200" alt="First day at the CfA." src="https://pbs.twimg.com/profile_images/1535846887814844416/DAzyxjl5_400x400.jpg">
+  <img top="500" height="200" width="200" alt="First day at the CfA." src="https://pbs.twimg.com/profile_images/1580573182360272896/2Ru5bEvs_400x400.jpg">
 </p>
 
 
