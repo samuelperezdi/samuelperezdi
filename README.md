@@ -8,7 +8,7 @@ Víctor Samuel Pérez Díaz</a></h1>
 
 
 ## About me
-
+[![Website Badge](https://img.shields.io/badge/-samuelperezdi.com-c14438?style=flat-square&logo=Website&logoColor=white&link=https://samuelperezdi.com)](https://samuelperezdi.com)
 [![Linkedin Badge](https://img.shields.io/badge/-samuelperezdiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelperezdiaz/)](https://www.linkedin.com/in/samuelperezdiaz/)
 [![Gmail Badge](https://img.shields.io/badge/-vperezdiaz@cfa.harvard.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vperezdiaz@cfa.harvard.edu)](mailto:vperezdiaz@cfa.harvard.edu)
 <a target="_blank" align="center">
