@@ -1,6 +1,6 @@
 <h1 align="center"><a>
 Víctor Samuel Pérez Díaz</a></h1>
-[![Website Badge](https://img.shields.io/badge/-samuelperezdi.com-c14438?style=flat-square&logo=Website&logoColor=white&link=https://samuelperezdi.com)](https://samuelperezdi.com)
+https://samuelperezdi.com
 
 
 
