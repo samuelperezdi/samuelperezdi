@@ -1,8 +1,6 @@
 <h1 align="center"><a>
 Víctor Samuel Pérez Díaz</a></h1>
-<p align="center">
- <a href="https://www.samuelperezdi.com/">samuelperezdi.com</a>
-</p>
+<p align="center"><a href="https://www.samuelperezdi.com/">samuelperezdi.com</a></p>
 
 ## About me
 
