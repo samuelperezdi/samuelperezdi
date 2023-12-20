@@ -1,14 +1,11 @@
 <h1 align="center"><a>
 Víctor Samuel Pérez Díaz</a></h1>
-<h5 align="center">Applied Mathematics and Computer Science</h5>
-<p align="center">
-  <img top="500" height="200" width="200" alt="First day at the CfA." src="https://pbs.twimg.com/profile_images/1580573182360272896/2Ru5bEvs_400x400.jpg">
-</p>
+<h5 align="center">[![Website Badge](https://img.shields.io/badge/-samuelperezdi.com-c14438?style=flat-square&logo=Website&logoColor=white&link=https://samuelperezdi.com)](https://samuelperezdi.com)</h5>
 
 
 
 ## About me
-[![Website Badge](https://img.shields.io/badge/-samuelperezdi.com-c14438?style=flat-square&logo=Website&logoColor=white&link=https://samuelperezdi.com)](https://samuelperezdi.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-samuelperezdiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelperezdiaz/)](https://www.linkedin.com/in/samuelperezdiaz/)
 [![Gmail Badge](https://img.shields.io/badge/-vperezdiaz@cfa.harvard.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vperezdiaz@cfa.harvard.edu)](mailto:vperezdiaz@cfa.harvard.edu)
 <a target="_blank" align="center">
