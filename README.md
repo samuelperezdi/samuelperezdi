@@ -1,8 +1,8 @@
 <h1 align="center"><a>
 Víctor Samuel Pérez Díaz</a></h1>
-https://samuelperezdi.com
-
-
+<p align="center">
+ <a href="https://www.samuelperezdi.com/">samuelperezdi.com</a>
+</p>
 
 ## About me
 
@@ -13,3 +13,5 @@ https://samuelperezdi.com
 Hi! I'm an Applied Mathematician and Computer Scientist, currently serving as a Research Fellow at the Harvard John A. Paulson School of Engineering and Applied Sciences and the Center for Astrophysics l Harvard & Smithsonian. I am also part of AstroAI. I hold my B.Sc. from Universidad del Rosario (Colombia). 
 
 My research focuses on leveraging artificial intelligence (AI) for scientific discovery. My focus lies at the intersection of machine learning and (astro)physics. I am interested in foundation models for science, interpretability, and robustness.
+
+Check my work [here](https://www.samuelperezdi.com/science).
