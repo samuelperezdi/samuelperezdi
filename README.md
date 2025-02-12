@@ -10,4 +10,4 @@ Víctor Samuel Pérez Díaz</a></h1>
  
 Hi! 👋🇨🇴 
 
-Thanks for visiting my github. Check my work [here](https://www.samuelperezdi.com).
+Thanks for visiting my GitHub. Information [here](https://www.samuelperezdi.com).
